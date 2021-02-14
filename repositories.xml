@@ -4,7 +4,7 @@
     <description>nobk's gentoo overlay</description>
     <homepage>http://github.com/nobk/overlay</homepage>
     <owner>
-        <email>nobk@noreplay.github.com</email>
+        <email>nobk@noreply.github.com</email>
     </owner>
     <source type="git">git://github.com/nobk/overlay.git</source>
     </repo>
