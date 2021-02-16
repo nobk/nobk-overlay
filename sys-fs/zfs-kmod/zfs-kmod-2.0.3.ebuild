@@ -26,7 +26,7 @@ IUSE="custom-cflags debug +rootfs"
 DEPEND=""
 
 RDEPEND="${DEPEND}
-	!sys-kernel/
+	!sys-kernel/spl
 "
 
 BDEPEND="
